@@ -17,8 +17,7 @@ class App extends Component {
     const settara = 4;
     const options = {
       headers: {
-        token: "12344555",
-        session: 50
+        token: "12344555"
       }
     };
     const obj = {

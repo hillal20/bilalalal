@@ -16,6 +16,8 @@
     "express": "^4.16.4",
     "express-session": "^1.16.1",
     "helmet": "^3.18.0",
+    "hydra-cli": "^1.6.0",
+    "hydra-express": "^1.7.1",
     "nodemon": "^1.19.0"
   }
 }
